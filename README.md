@@ -1,9 +1,10 @@
 # Certificates
 
 ## Courses
-### Coursera
 * [ML Intro (Data Science), Rolling Scopes School](https://github.com/Margarita-3M/Certificates/blob/master/Courses/2021_RS_Intro_to_ML.pdf)
 * [Программа повышение квалификации "Аналитик данных, Университет 20.35", Яндекс.Практикум](https://github.com/Margarita-3M/Certificates/blob/master/Courses/2021_YaPracticum_DataAnalysis.pdf)
+
+### Coursera
 
 #### DS Intro and Machine Learning
 * [AI For Everyone, DeepLearning.AI](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%20LK3AMWSGPMF5.pdf)
