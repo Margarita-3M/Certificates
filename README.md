@@ -1,14 +1,27 @@
 # Certificates
 
 ## Courses
-* [ML Intro (Data Science), Rolling Scopes School](https://github.com/Margarita-3M/Certificates/blob/master/Courses/2021_RS_Intro_to_ML.pdf)
+* [ML Intro (Data Science), Rolling Scopes School/EPAM](https://github.com/Margarita-3M/Certificates/blob/master/Courses/2021_RS_Intro_to_ML.pdf)
 * [Программа повышение квалификации "Аналитик данных, Университет 20.35", Яндекс.Практикум](https://github.com/Margarita-3M/Certificates/blob/master/Courses/2021_YaPracticum_DataAnalysis.pdf)
 
 ### Coursera
 
+#### Google Data Analytics
+* [Foundations: Data, Data, Everywhere](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%EUFCUZFAU6DS.pdf)
+* Ask Questions to Make Data-Driven Decisions
+* Prepare Data for Exploration
+* Process Data from Dirty to Clean
+* Analyze Data to Answer Questions
+* Share Data Through the Art of Visualization
+* Data Analysis with R Programming
+* Google Data Analytics Capstone: Complete a Case Study
+
+#### Машинное обучение и анализ данных, MIPT & Yandex
+* [Математика и Python для анализа данных](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%QXJHZA9JYNP8.pdf)
+* [Обучение на размеченных данных](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%20UFLCD4RN78GY.pdf)
+
 #### DS Intro and Machine Learning
 * [AI For Everyone, DeepLearning.AI](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%20LK3AMWSGPMF5.pdf)
-* [Обучение на размеченных данных, Moscow Institute of Physics and Technology & Yandex](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%20UFLCD4RN78GY.pdf)
 
 #### Programming
 * [Python for Everybody, University of Michigan](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera%20QLRJXGLTKZZG.pdf)
