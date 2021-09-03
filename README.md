@@ -8,7 +8,7 @@
 
 #### Google Data Analytics Certificate
 * [Foundations: Data, Data, Everywhere](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_EUFCUZFAU6DS.pdf)
-* [Ask Questions to Make Data-Driven Decisions](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera/Coursera_GZTSV27XW4U3.pdf)
+* [Ask Questions to Make Data-Driven Decisions](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_GZTSV27XW4U3.pdf)
 * [Prepare Data for Exploration](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_5RWT2X7N6DC6.pdf)
 * Process Data from Dirty to Clean
 * Analyze Data to Answer Questions
