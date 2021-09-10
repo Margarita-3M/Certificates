@@ -12,7 +12,7 @@
 * [Prepare Data for Exploration](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_5RWT2X7N6DC6.pdf)
 * [Process Data from Dirty to Clean](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_5PAF76PWVUCZ.pdf)
 * [Analyze Data to Answer Questions](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_KYVJ87ZC6NVY.pdf)
-* Share Data Through the Art of Visualization
+* [Share Data Through the Art of Visualization](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_Q9BKPXAKTH6B.pdf)
 * Data Analysis with R Programming
 * Google Data Analytics Capstone: Complete a Case Study
 
