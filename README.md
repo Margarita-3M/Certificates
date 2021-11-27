@@ -12,7 +12,7 @@
 * Ask Questions to Make Data-Driven Decisions - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_GZTSV27XW4U3.pdf)
 * Prepare Data for Exploration - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_5RWT2X7N6DC6.pdf)
 * Process Data from Dirty to Clean - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_5PAF76PWVUCZ.pdf)
-* Analyze Data to Answer Questions - [link]https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_KYVJ87ZC6NVY.pdf)
+* Analyze Data to Answer Questions - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_KYVJ87ZC6NVY.pdf)
 * Share Data Through the Art of Visualization - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_Q9BKPXAKTH6B.pdf)
 * Data Analysis with R Programming - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_QYUPZNP3RSCF.pdf)
 * Google Data Analytics Capstone
