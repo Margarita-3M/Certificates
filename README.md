@@ -1,6 +1,7 @@
 # Certificates
 
 ## Courses
+* [Summer School on Machine Learning, MTS.Teta (Top-1 rating among participants)](https://github.com/Margarita-3M/Certificates/blob/master/Courses/MTS.Teta_ML.pdf)
 * [ML Intro (Data Science), Rolling Scopes School/EPAM](https://github.com/Margarita-3M/Certificates/blob/master/Courses/RS_Intro_to_ML.pdf)
 * [Программа повышение квалификации "Аналитик данных, Университет 20.35", Яндекс.Практикум](https://github.com/Margarita-3M/Certificates/blob/master/Courses/YaPracticum_DataAnalysis.pdf)
 
