@@ -1,6 +1,11 @@
 # Certificates
 
+## Hackathons
+* [2021 Nornickel Sick-Leaves](https://github.com/Margarita-3M/Certificates/blob/master/Hackathons/2021_Hackaton_Nornickel.pdf)
+* [2021 Lenta Hack-Promo](https://github.com/Margarita-3M/Certificates/blob/master/Hackathons/2021_Hackathon_HackPromo.pdf)
+
 ## Courses
+* [Повышение квалификации "Профессия Дата-аналитик", ТГУ](https://github.com/Margarita-3M/Certificates/blob/master/Courses/TSU_DataAnalyst.pdf)
 * [Summer School on Machine Learning, MTS.Teta (Top-1 rating among participants)](https://github.com/Margarita-3M/Certificates/blob/master/Courses/MTS.Teta_ML.pdf)
 * [ML Intro (Data Science), Rolling Scopes School/EPAM](https://github.com/Margarita-3M/Certificates/blob/master/Courses/RS_Intro_to_ML.pdf)
 * [Программа повышение квалификации "Аналитик данных, Университет 20.35", Яндекс.Практикум](https://github.com/Margarita-3M/Certificates/blob/master/Courses/YaPracticum_DataAnalysis.pdf)
@@ -36,6 +41,3 @@
 * [An Intuitive Introduction to Probability, University of Zurich](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_F5KZGTEQPZP6.pdf)
 * [Mathematics for Machine Learning: Linear Algebra, Imperial College London](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_WP6ARRLK5YFX.pdf)
 
-## Hackathons
-* [2021 Nornickel Sick-Leaves](https://github.com/Margarita-3M/Certificates/blob/master/Hackathons/2021_Hackaton_Nornickel.pdf)
-* [2021 Lenta Hack-Promo](https://github.com/Margarita-3M/Certificates/blob/master/Hackathons/2021_Hackathon_HackPromo.pdf)
