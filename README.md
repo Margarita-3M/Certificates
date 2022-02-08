@@ -5,6 +5,7 @@
 * [2021 Lenta Hack-Promo](https://github.com/Margarita-3M/Certificates/blob/master/Hackathons/2021_Hackathon_HackPromo.pdf)
 
 ## Courses
+* [Симулятор Аналитика от KarpovCourses](https://github.com/Margarita-3M/Certificates/blob/master/Courses/KC_Certificate.pdf)
 * [Повышение квалификации "Профессия Дата-аналитик", ТГУ](https://github.com/Margarita-3M/Certificates/blob/master/Courses/TSU_DataAnalyst.pdf)
 * [Summer School on Machine Learning, MTS.Teta (Top-1 rating among participants)](https://github.com/Margarita-3M/Certificates/blob/master/Courses/MTS.Teta_ML.pdf)
 * [ML Intro (Data Science), Rolling Scopes School/EPAM](https://github.com/Margarita-3M/Certificates/blob/master/Courses/RS_Intro_to_ML.pdf)
