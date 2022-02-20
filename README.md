@@ -13,7 +13,7 @@
 
 ### Coursera
 
-#### Google Data Analytics Certificate
+#### Google Data Analytics Certificate - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_X2R85JMVTK6N.pdf)
 * Foundations: Data, Data, Everywhere - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_EUFCUZFAU6DS.pdf)
 * Ask Questions to Make Data-Driven Decisions - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_GZTSV27XW4U3.pdf)
 * Prepare Data for Exploration - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_5RWT2X7N6DC6.pdf)
@@ -21,7 +21,6 @@
 * Analyze Data to Answer Questions - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_KYVJ87ZC6NVY.pdf)
 * Share Data Through the Art of Visualization - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_Q9BKPXAKTH6B.pdf)
 * Data Analysis with R Programming - [link](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_QYUPZNP3RSCF.pdf)
-* Google Data Analytics Capstone
 
 #### Машинное обучение и анализ данных, MIPT & Yandex
 * [Математика и Python для анализа данных](https://github.com/Margarita-3M/Certificates/blob/master/Courses/Coursera_QXJHZA9JYNP8.pdf)
